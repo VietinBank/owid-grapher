@@ -1,4 +1,5 @@
 import * as React from "react"
+
 import "site/client/owid.scss"
 import "charts/client/chart.scss"
 import { CovidDataExplorer } from "charts/covidDataExplorer/CovidDataExplorer"
